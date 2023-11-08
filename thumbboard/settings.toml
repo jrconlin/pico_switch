@@ -1,0 +1,19 @@
+# Your wireless network setup
+# Please change all these values to make
+# sense for your network.
+WIFI_SSID="TakeMyWifiPlease"
+WIFI_PASSWORD="HennyYoungman"
+
+# Your MQTT server setup
+MQTT_USER="user"
+MQTT_PASS="password"
+MQTT_HOST="192.1.1.1"
+
+# if desired, override the DHCP setting
+# and force this device to use the following
+# network config
+#LOC_ADDR="10.0.1.123"
+#LOC_GATE="10.0.1.1"
+#LOC_MASK="10.0.1.255"
+#LOC_DNS="10.0.1.42"
+
